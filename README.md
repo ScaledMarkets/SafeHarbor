@@ -60,7 +60,8 @@ will be added.
 * [dabl](https://github.com/ScaledMarkets/dabl)
 * [piper](https://github.com/ScaledMarkets/piper)
 * [SafeHarborServer](https://github.com/ScaledMarkets/SafeHarborServer) - This is
-	the original REST server prototype, written it Go. It is being refactored into two
+	the container scanner REST server prototype, consisting of 78 REST functions and
+	written it Go. It is being refactored into two
 	microservices: one for the user/team/org and access control list functionality,
 	and one for the container scanning services.
 * [safeharborcmdclient](https://github.com/ScaledMarkets/safeharborcmdclient)

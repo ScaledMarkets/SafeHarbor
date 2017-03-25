@@ -53,7 +53,7 @@ software development/deployment lifecycle, specifically,
 <li>Support API management.
 	<ol>
 	<li>Current “Agile” work planning tools do not integrate API management,
-	and thus developers need to separately track APIs. (See 1.a above.)</li>
+	and thus developers need to separately track APIs. (See #1 above.)</li>
 	</ol>
 </li>
 </ol>

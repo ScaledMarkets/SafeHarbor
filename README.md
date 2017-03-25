@@ -63,10 +63,12 @@ will be added.
 	repository: think of maven and Jenkins combined, but much more robust and usable.
 	Built around dabl. Microservice based. Written in Java.
 * [SafeHarborServer](https://github.com/ScaledMarkets/SafeHarborServer) - This is
-	the container scanner REST server prototype, consisting of 78 REST functions and
-	written it Go. It is being refactored into two
-	microservices: one for the user/team/org and access control list functionality,
-	and one for the container scanning services.
+	a container image security scanner platform. It leverages multiple image scanners
+	to enable one to compose a security scanning task with a choice of scanners.
+	Provides a REST service consisting of 78 REST functions. Written it Go.
+	It is being refactored into two microservices: one for the user/team/org and
+	access control list functionality, and one for the container scanning services.
+	Uses the [redis](https://redis.io/) no-sql database.
 * [safeharborcmdclient](https://github.com/ScaledMarkets/safeharborcmdclient) - Command
 	line tool for using SafeHarborServer. Written in Go.
 * [bddloadgen](https://github.com/ScaledMarkets/bddloadgen) - Load generation

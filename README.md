@@ -63,7 +63,7 @@ will be added.
 	repository: think of maven and Jenkins combined, but much more robust and usable.
 	Built around dabl. Microservice based. Written in Java.
 * [SafeHarborServer](https://github.com/ScaledMarkets/SafeHarborServer) - This is
-	a container image security scanner platform. It leverages multiple image scanners
+	a container image security scanning platform. It leverages multiple image scanners
 	to enable one to compose a security scanning task with a choice of scanners.
 	Provides a REST service consisting of 78 REST functions. Written it Go.
 	It is being refactored into two microservices: one for the user/team/org and

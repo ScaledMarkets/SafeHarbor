@@ -65,5 +65,7 @@ will be added.
 	microservices: one for the user/team/org and access control list functionality,
 	and one for the container scanning services.
 * [safeharborcmdclient](https://github.com/ScaledMarkets/safeharborcmdclient)
-* [bddloadgen](https://github.com/ScaledMarkets/bddloadgen)
+* [bddloadgen](https://github.com/ScaledMarkets/bddloadgen) - Load generation
+	tool that uses a [BDD](https://www.agilealliance.org/glossary/bdd/) paradigm
+	for specifying SLA.
 

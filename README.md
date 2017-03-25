@@ -1,8 +1,8 @@
 # SafeHarbor
 
 SafeHarbor is an open source DevOps platform that integrates many of the tasks
-associated with coding, testing, governing, and deploying microservice centric
-and component centric applications.
+associated with coding, testing, governing, and deploying <b><i>microservice centric
+and component centric applications</i></b>.
 
 In the spirit of microservices, SafeHarbor itself is a componentized system,
 consisting of many independently usable microservices, and many independent

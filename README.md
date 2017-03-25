@@ -17,19 +17,44 @@ entire suite.
 SafeHarbor supports unmet needs in today’s microservice-centric and component centric
 software development/deployment lifecycle, specifically,
 
-* Support development of microservices.
+<ol>
+<li>Support development of microservices.</li>
+	<ol>
+	<li>Current tools do not help developers to track which services they are
+	working on, or which are affected by code changes or API changes.</li>
+	
+	<li>Current “Agile” tools do not help developers to plan work in terms of the
+	microservices and UI components that comprise the application.</li>
+	</ol>
+</li>
+<li>Support governance needs.
+	<ol>
+	<li>Current “Agile” tools have major traceability gaps between features, tests,
+	data models, and deployments.</li>
+	</ol>
 
-** Current tools do not help developers to track which services they are working on, or which are affected by code changes or API changes.
-** Current “Agile” tools do not help developers to plan work in terms of the microservices and UI components that comprise the application.
+<li>Support DevOps needs.
+	<ol>
+	<li>Current tools do not enable one to define a build/test process in a robust
+	and unified way.</li>
+	</ol>
+</li>
 
-* Support governance needs.
-** Current “Agile” tools have major traceability gaps between features, tests, data models, and deployments.
+<li>Support reliable DevOps.
+	<ol>
+	<li>Current tools are based on scripting, schema-free data structures (JSON, YAML),
+	or extensions to general purpose languages that have poor software engineering
+	characteristics, and thus violate software engineering principles that are
+	important for reliability and maintainability. The current tools therefore
+	do not adequately support viewing infrastructure “as code”, given that
+	reliable and maintainable code are essential for infrastructure.</li>
+	</ol>
+</li>
 
-* Support DevOps needs.
-** Current tools do not enable one to define a build/test process in a robust and unified way.
-
-* Support reliable DevOps.
-** Current tools are based on scripting, schema-free data structures (JSON, YAML), or extensions to general purpose languages that have poor software engineering characteristics, and thus violate software engineering principles that are important for reliability and maintainability. The current tools therefore do not adequately support viewing infrastructure “as code”, given that reliable and maintainable code are essential for infrastructure.
-
-* Support API management.
-** Current “Agile” work planning tools do not integrate API management, and thus developers need to separately track APIs. (See 1.a above.)
+<li>Support API management.
+	<ol>
+	<li>Current “Agile” work planning tools do not integrate API management,
+	and thus developers need to separately track APIs. (See 1.a above.)</li>
+	</ol>
+</li>
+</ol>

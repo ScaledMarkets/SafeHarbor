@@ -10,13 +10,12 @@ Web components. One can literally mix and match these, or one can use the
 entire suite.
 
 ![SafeHarbor Integrated View](SafeHarbor_Integrated_View.png "SafeHarbor Integrated View")
-<center>SafeHarbor Architecture</center>
 
 SafeHarbor supports unmet needs in today’s microservice-centric and component centric
 software development/deployment lifecycle, specifically,
 
 <ol>
-<li>Support development of microservices.</li>
+<li><b>Support development of microservices.</b>
 	<ol>
 	<li>Current tools do not help developers to track which services they are
 	working on, or which are affected by code changes or API changes.</li>
@@ -24,20 +23,18 @@ software development/deployment lifecycle, specifically,
 	microservices and UI components that comprise the application.</li>
 	</ol>
 </li>
-<li>Support governance needs.
+<li><b>Support governance needs.</b>
 	<ol>
 	<li>Current “Agile” tools have major traceability gaps between features, tests,
 	data models, and deployments.</li>
 	</ol>
-
-<li>Support DevOps needs.
+<li><b>Support DevOps needs.</b>
 	<ol>
 	<li>Current tools do not enable one to define a build/test process in a robust
 	and unified way.</li>
 	</ol>
 </li>
-
-<li>Support reliable DevOps.
+<li><b>Support reliable DevOps.</b>
 	<ol>
 	<li>Current tools are based on scripting, schema-free data structures (JSON, YAML),
 	or extensions to general purpose languages that have poor software engineering
@@ -47,8 +44,7 @@ software development/deployment lifecycle, specifically,
 	reliable and maintainable code are essential for infrastructure.</li>
 	</ol>
 </li>
-
-<li>Support API management.
+<li><b>Support API management.</b>
 	<ol>
 	<li>Current “Agile” work planning tools do not integrate API management,
 	and thus developers need to separately track APIs. (See 1.i above.)</li>

@@ -22,7 +22,6 @@ software development/deployment lifecycle, specifically,
 	<ol>
 	<li>Current tools do not help developers to track which services they are
 	working on, or which are affected by code changes or API changes.</li>
-	
 	<li>Current “Agile” tools do not help developers to plan work in terms of the
 	microservices and UI components that comprise the application.</li>
 	</ol>

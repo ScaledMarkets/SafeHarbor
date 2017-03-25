@@ -51,3 +51,15 @@ software development/deployment lifecycle, specifically,
 	</ol>
 </li>
 </ol>
+
+# Sub-Projects
+
+The following projects are components of the SafeHarbor system. More components
+will be added.
+
+* [dabl](https://github.com/ScaledMarkets/dabl)
+* [piper](https://github.com/ScaledMarkets/piper)
+* [SafeHarborServer](https://github.com/ScaledMarkets/SafeHarborServer)
+* [safeharborcmdclient](https://github.com/ScaledMarkets/safeharborcmdclient)
+* [bddloadgen](https://github.com/ScaledMarkets/bddloadgen)
+

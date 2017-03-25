@@ -66,7 +66,7 @@ will be added.
 	a container image security scanning platform. It leverages multiple image scanners
 	to enable one to compose a security scanning task with a choice of scanners,
 	maintains scan history, and provides traceability between images and scan results.
-	Provides a REST service consisting of 78 REST functions. Written it Go.
+	Provides a REST service consisting of 78 REST functions. Written in Go.
 	It is being refactored into two microservices: one for the user/team/org and
 	access control list functionality, and one for the container scanning services.
 	Uses the [redis](https://redis.io/) no-sql database.

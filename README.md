@@ -9,10 +9,8 @@ consisting of many independently usable microservices, and many independent
 Web components. One can literally mix and match these, or one can use the
 entire suite.
 
-
-
-
 ![SafeHarbor Integrated View](SafeHarbor_Integrated_View.png "SafeHarbor Integrated View")
+<center>SafeHarbor Architecture</center>
 
 SafeHarbor supports unmet needs in today’s microservice-centric and component centric
 software development/deployment lifecycle, specifically,

@@ -57,8 +57,10 @@ software development/deployment lifecycle, specifically,
 The following projects are components of the SafeHarbor system. More components
 will be added.
 
-* [dabl](https://github.com/ScaledMarkets/dabl)
-* [piper](https://github.com/ScaledMarkets/piper)
+* [dabl](https://github.com/ScaledMarkets/dabl) - A build management tool: think
+	of a much better make, ant, gradle, or maven.
+* [piper](https://github.com/ScaledMarkets/piper) - An artifact repository: think
+	of maven and Jenkins combined, but much more robust and usable.
 * [SafeHarborServer](https://github.com/ScaledMarkets/SafeHarborServer) - This is
 	the container scanner REST server prototype, consisting of 78 REST functions and
 	written it Go. It is being refactored into two
@@ -67,5 +69,5 @@ will be added.
 * [safeharborcmdclient](https://github.com/ScaledMarkets/safeharborcmdclient)
 * [bddloadgen](https://github.com/ScaledMarkets/bddloadgen) - Load generation
 	tool that uses a [BDD](https://www.agilealliance.org/glossary/bdd/) paradigm
-	for specifying SLA.
+	for specifying requirements as an SLA.
 

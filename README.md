@@ -59,8 +59,8 @@ will be added.
 
 * [dabl](https://github.com/ScaledMarkets/dabl) - A build management tool: think
 	of a much better make, ant, gradle, or maven.
-* [piper](https://github.com/ScaledMarkets/piper) - An artifact repository: think
-	of maven and Jenkins combined, but much more robust and usable.
+* [piper](https://github.com/ScaledMarkets/piper) - A language-agnostic artifact
+	repository: think of maven and Jenkins combined, but much more robust and usable.
 * [SafeHarborServer](https://github.com/ScaledMarkets/SafeHarborServer) - This is
 	the container scanner REST server prototype, consisting of 78 REST functions and
 	written it Go. It is being refactored into two
